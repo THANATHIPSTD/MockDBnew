@@ -1,55 +1,252 @@
-{
-  "news": [
-    {
-      "id": 101,
-      "title": "พบงูยักษ์ในคอนโดกลางกรุง",
-      "summary": "ผู้พักอาศัยพบงูขนาดใหญ่ในคอนโดฯ",
-      "content": "รายละเอียดเหตุการณ์และแหล่งที่มาที่ผู้โพสต์อ้าง...",
-      "reporter": "Nicha W.",
-      "reportedAt": "2025-08-05T14:20:00Z",
-      "imageUrl": "https://picsum.photos/seed/101/640/360"
-    },
-    {
-      "id": 102,
-      "title": "แจกไอโฟนฟรีแค่แชร์โพสต์",
-      "summary": "โพสต์ชวนแชร์เพื่อรับของรางวัล",
-      "content": "โพสต์ดังกล่าวไม่มีหลักฐานสนับสนุนจากแหล่งทางการ...",
-      "reporter": "Anon",
-      "reportedAt": "2025-08-03T09:10:00Z",
-      "imageUrl": "https://picsum.photos/seed/102/640/360"
-    }
-  ],
-  "comments": [
-    {
-      "id": 5001,
-      "newsId": 101,
-      "author": "Beam",
-      "text": "รูปน่าจะเป็นของเก่า",
-      "createdAt": "2025-08-05T15:10:00Z"
-    },
-    {
-      "id": 5002,
-      "newsId": 102,
-      "author": "Nam",
-      "text": "เห็นข่าวคล้ายกันเมื่อปีที่แล้ว",
-      "createdAt": "2025-08-05T15:12:00Z",
-      "imageUrl": "https://picsum.photos/seed/c1/400/300"
-    }
-  ],
-  "votes": [
-    {
-      "id": 9001,
-      "newsId": 101,
-      "voter": "Guest-1",
-      "choice": "FAKE",
-      "createdAt": "2025-08-05T15:12:00Z"
-    },
-    {
-      "id": 9002,
-      "newsId": 101,
-      "voter": "Guest-2",
-      "choice": "NOT_FAKE",
-      "createdAt": "2025-08-05T15:13:00Z"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "topic": "Kylian Mbappé's Secret Meeting with Real Madrid Officials",
+    "shortDetail": "Rumors claim Mbappé had a private dinner with Madrid's president in Paris.",
+    "fullDetail": "Multiple unverified sources allege that Kylian Mbappé recently had a discreet dinner meeting with Florentino Pérez, the president of Real Madrid, at a luxury restaurant in Paris. The supposed meeting took place without PSG's knowledge, sparking speculation about an early transfer. No official statements have been made by either club.",
+    "status": "Fake",
+    "reporter": "John Doe",
+    "dateTime": "2025-08-08 18:30",
+    "imageUrl": "https://example.com/mbappe-dinner.jpg",
+    "fakeVotes": 45,
+    "realVotes": 12,
+    "comments": [
+      {
+        "user": "SportsGuru21",
+        "vote": "fake",
+        "comment": "Perez was in Madrid on that date; photos prove it."
+      },
+      {
+        "user": "TransferWatcher",
+        "vote": "fake",
+        "comment": "No credible journalist reported this meeting."
+      },
+      {
+        "user": "RMfan99",
+        "vote": "real",
+        "comment": "Possible — Mbappé’s transfer saga has always been full of surprises."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Lewis Hamilton Considering Retirement Before 2026 Season",
+    "shortDetail": "Insider claims Hamilton might quit before the next big regulation changes.",
+    "fullDetail": "An anonymous paddock source suggests that Lewis Hamilton is seriously considering retiring before the 2026 Formula 1 season, citing a desire to focus on his fashion and music ventures. Mercedes has neither confirmed nor denied the rumor, while Hamilton himself has posted cryptic messages on social media about 'new beginnings.'",
+    "status": "Real",
+    "reporter": "Sarah Johnson",
+    "dateTime": "2025-08-07 14:10",
+    "imageUrl": "https://example.com/hamilton-retirement.jpg",
+    "fakeVotes": 18,
+    "realVotes": 39,
+    "comments": [
+      {
+        "user": "F1Insider",
+        "vote": "real",
+        "comment": "He's hinted about retirement multiple times this season."
+      },
+      {
+        "user": "TracksideFan",
+        "vote": "fake",
+        "comment": "He just renewed his contract until 2026."
+      },
+      {
+        "user": "PitStopPro",
+        "vote": "real",
+        "comment": "His focus seems to be shifting away from racing."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Cristiano Ronaldo to Launch His Own Football League",
+    "shortDetail": "Ronaldo reportedly wants to start a rival league in the Middle East.",
+    "fullDetail": "Social media reports claim that Cristiano Ronaldo is working with Middle Eastern investors to launch a brand-new football league that would rival UEFA competitions. The alleged league would include star players in the later stages of their careers, offering massive salaries and global streaming rights. Ronaldo’s representatives have not commented.",
+    "status": "Fake",
+    "reporter": "Mike Alvarez",
+    "dateTime": "2025-08-06 20:45",
+    "imageUrl": "https://example.com/ronaldo-league.jpg",
+    "fakeVotes": 50,
+    "realVotes": 7,
+    "comments": [
+      {
+        "user": "GoalMachine",
+        "vote": "fake",
+        "comment": "Sounds too unrealistic and no official news."
+      },
+      {
+        "user": "DesertBall",
+        "vote": "real",
+        "comment": "With Saudi backing, this could happen."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Max Verstappen Allegedly Threatens to Leave Red Bull Over Internal Disputes",
+    "shortDetail": "Reports suggest Verstappen had a heated argument with team management.",
+    "fullDetail": "According to leaked paddock gossip, Max Verstappen reportedly threatened to leave Red Bull Racing due to ongoing internal disagreements over technical decisions and team politics. Red Bull has publicly denied these rumors, but insiders claim tensions have been high behind the scenes, especially after a controversial race strategy call.",
+    "status": "Real",
+    "reporter": "Emily Carter",
+    "dateTime": "2025-08-05 11:20",
+    "imageUrl": "https://example.com/verstappen-dispute.jpg",
+    "fakeVotes": 21,
+    "realVotes": 33,
+    "comments": [
+      {
+        "user": "RBfan88",
+        "vote": "real",
+        "comment": "He’s known to be outspoken when unhappy with the team."
+      },
+      {
+        "user": "F1Loyalist",
+        "vote": "fake",
+        "comment": "PR stunt to pressure the team."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Lionel Messi to Co-Star in Hollywood Action Film",
+    "shortDetail": "Rumors say Messi is set to appear alongside Tom Cruise in a new blockbuster.",
+    "fullDetail": "Entertainment blogs are circulating a story that Lionel Messi has been offered a cameo role in an upcoming Hollywood action film starring Tom Cruise. Filming is allegedly set for early 2026 in Miami, where Messi currently plays. No official confirmation has been made by Messi’s representatives or the film studio.",
+    "status": "Fake",
+    "reporter": "Anna Roberts",
+    "dateTime": "2025-08-04 09:15",
+    "imageUrl": "https://example.com/messi-movie.jpg",
+    "fakeVotes": 42,
+    "realVotes": 10,
+    "comments": [
+      {
+        "user": "CineSports",
+        "vote": "fake",
+        "comment": "Clickbait — no credible source."
+      },
+      {
+        "user": "MiamiInsider",
+        "vote": "real",
+        "comment": "Possible, since he’s in Miami and has global appeal."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Charles Leclerc Secretly Meets Ferrari Rivals for Contract Talks",
+    "shortDetail": "Leclerc allegedly spotted in McLaren’s hospitality suite.",
+    "fullDetail": "Rumors suggest that Charles Leclerc was seen entering McLaren’s private hospitality suite during the Silverstone GP weekend. Fans claim this could indicate early talks about a future contract switch. McLaren has refused to comment, and Ferrari maintains Leclerc is committed to his contract until 2027.",
+    "status": "Fake",
+    "reporter": "James Holloway",
+    "dateTime": "2025-08-03 16:40",
+    "imageUrl": "https://example.com/leclerc-mclaren.jpg",
+    "fakeVotes": 38,
+    "realVotes": 15,
+    "comments": [
+      {
+        "user": "TifosiKing",
+        "vote": "fake",
+        "comment": "It was probably just a friendly visit."
+      },
+      {
+        "user": "OrangeArmy",
+        "vote": "real",
+        "comment": "Drivers talk to other teams all the time."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Erling Haaland's Personal Chef Reveals Move to Barcelona",
+    "shortDetail": "Chef allegedly told friends that Haaland is relocating to Spain.",
+    "fullDetail": "A Spanish gossip magazine claims that Erling Haaland’s personal chef leaked information about the striker’s potential move to Barcelona during a private dinner. Manchester City has denied all transfer speculation, calling the story 'complete nonsense.'",
+    "status": "Fake",
+    "reporter": "Tom Sanders",
+    "dateTime": "2025-08-02 13:55",
+    "imageUrl": "https://example.com/haaland-chef.jpg",
+    "fakeVotes": 41,
+    "realVotes": 9,
+    "comments": [
+      {
+        "user": "BarcaRumors",
+        "vote": "real",
+        "comment": "Wouldn’t be the first time chefs leaked player info."
+      },
+      {
+        "user": "CityTillIDie",
+        "vote": "fake",
+        "comment": "Pure gossip with no evidence."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Fernando Alonso to Become Team Principal After Retirement",
+    "shortDetail": "Alonso rumored to lead Aston Martin F1 team post-retirement.",
+    "fullDetail": "Paddock insiders believe Fernando Alonso has expressed interest in becoming a team principal at Aston Martin once he retires from racing. Team representatives say they value Alonso’s leadership, but no formal discussions have been confirmed.",
+    "status": "Real",
+    "reporter": "Lucas Bennett",
+    "dateTime": "2025-08-01 17:25",
+    "imageUrl": "https://example.com/alonso-teamprincipal.jpg",
+    "fakeVotes": 14,
+    "realVotes": 37,
+    "comments": [
+      {
+        "user": "GreenMachine",
+        "vote": "real",
+        "comment": "Makes perfect sense given his experience."
+      },
+      {
+        "user": "TrackTalker",
+        "vote": "fake",
+        "comment": "He might want to step away from F1 entirely."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "Neymar Buys a Football Club in Brazil",
+    "shortDetail": "Reports suggest Neymar purchased majority shares of a lower-division club.",
+    "fullDetail": "Several Brazilian news outlets report that Neymar has bought a majority stake in a second-division Brazilian club as part of his plan to develop young talent. While Neymar’s PR team has not officially confirmed the acquisition, multiple sources close to the player say the deal is real.",
+    "status": "Real",
+    "reporter": "Carlos Mendes",
+    "dateTime": "2025-07-31 10:50",
+    "imageUrl": "https://example.com/neymar-club.jpg",
+    "fakeVotes": 12,
+    "realVotes": 44,
+    "comments": [
+      {
+        "user": "SelecaoSupporter",
+        "vote": "real",
+        "comment": "He has always talked about investing in Brazilian football."
+      },
+      {
+        "user": "DoubtfulDave",
+        "vote": "fake",
+        "comment": "Could be a publicity stunt."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "Mohamed Salah Signs Lifetime Contract with Liverpool",
+    "shortDetail": "Rumors say Salah agreed to stay at Liverpool for his entire career.",
+    "fullDetail": "A viral tweet claims Mohamed Salah has signed a 'lifetime' contract with Liverpool, ensuring he will never transfer to another club. Liverpool has dismissed the claim, stating there is no such contractual term in football.",
+    "status": "Fake",
+    "reporter": "Rachel Moore",
+    "dateTime": "2025-07-30 15:05",
+    "imageUrl": "https://example.com/salah-lifetime.jpg",
+    "fakeVotes": 46,
+    "realVotes": 8,
+    "comments": [
+      {
+        "user": "KopiteForever",
+        "vote": "real",
+        "comment": "I wish this were true."
+      },
+      {
+        "user": "TransferTruth",
+        "vote": "fake",
+        "comment": "No such thing as a lifetime contract in football."
+      }
+    ]
+  }
+]
