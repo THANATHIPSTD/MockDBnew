@@ -1,0 +1,55 @@
+{
+  "news": [
+    {
+      "id": 101,
+      "title": "พบงูยักษ์ในคอนโดกลางกรุง",
+      "summary": "ผู้พักอาศัยพบงูขนาดใหญ่ในคอนโดฯ",
+      "content": "รายละเอียดเหตุการณ์และแหล่งที่มาที่ผู้โพสต์อ้าง...",
+      "reporter": "Nicha W.",
+      "reportedAt": "2025-08-05T14:20:00Z",
+      "imageUrl": "https://picsum.photos/seed/101/640/360"
+    },
+    {
+      "id": 102,
+      "title": "แจกไอโฟนฟรีแค่แชร์โพสต์",
+      "summary": "โพสต์ชวนแชร์เพื่อรับของรางวัล",
+      "content": "โพสต์ดังกล่าวไม่มีหลักฐานสนับสนุนจากแหล่งทางการ...",
+      "reporter": "Anon",
+      "reportedAt": "2025-08-03T09:10:00Z",
+      "imageUrl": "https://picsum.photos/seed/102/640/360"
+    }
+  ],
+  "comments": [
+    {
+      "id": 5001,
+      "newsId": 101,
+      "author": "Beam",
+      "text": "รูปน่าจะเป็นของเก่า",
+      "createdAt": "2025-08-05T15:10:00Z"
+    },
+    {
+      "id": 5002,
+      "newsId": 102,
+      "author": "Nam",
+      "text": "เห็นข่าวคล้ายกันเมื่อปีที่แล้ว",
+      "createdAt": "2025-08-05T15:12:00Z",
+      "imageUrl": "https://picsum.photos/seed/c1/400/300"
+    }
+  ],
+  "votes": [
+    {
+      "id": 9001,
+      "newsId": 101,
+      "voter": "Guest-1",
+      "choice": "FAKE",
+      "createdAt": "2025-08-05T15:12:00Z"
+    },
+    {
+      "id": 9002,
+      "newsId": 101,
+      "voter": "Guest-2",
+      "choice": "NOT_FAKE",
+      "createdAt": "2025-08-05T15:13:00Z"
+    }
+  ]
+}
