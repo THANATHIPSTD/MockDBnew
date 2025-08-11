@@ -1,5 +1,5 @@
 {
-  "news": [
+ "news": [
     {
       "id": 1,
       "topic": "Kylian Mbappé's Secret Meeting with Real Madrid Officials",
@@ -7,7 +7,8 @@
       "fullDetail": "Multiple unverified sources allege that Kylian Mbappé recently had a discreet dinner meeting with Florentino Pérez, the president of Real Madrid, at a luxury restaurant in Paris. The supposed meeting took place without PSG's knowledge, sparking speculation about an early transfer. No official statements have been made by either club.",
       "reporter": "John Doe",
       "dateTime": "2025-08-08 18:30",
-      "imageUrl": "https://example.com/mbappe-dinner.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kylian_Mbapp%C3%A9_2018.jpg",
+      "imageCredit": "© Bildbyrån (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -18,7 +19,8 @@
       "fullDetail": "An anonymous paddock source suggests that Lewis Hamilton is seriously considering retiring before the 2026 Formula 1 season, citing a desire to focus on his fashion and music ventures. Mercedes has neither confirmed nor denied the rumor, while Hamilton himself has posted cryptic messages on social media about 'new beginnings.'",
       "reporter": "Sarah Johnson",
       "dateTime": "2025-08-07 14:10",
-      "imageUrl": "https://example.com/hamilton-retirement.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lewis_Hamilton_2016_Mexico.jpg",
+      "imageCredit": "© Mercedes-AMG F1 (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -29,7 +31,8 @@
       "fullDetail": "Social media reports claim that Cristiano Ronaldo is working with Middle Eastern investors to launch a brand-new football league that would rival UEFA competitions. The alleged league would include star players in the later stages of their careers, offering massive salaries and global streaming rights. Ronaldo’s representatives have not commented.",
       "reporter": "Mike Alvarez",
       "dateTime": "2025-08-06 20:45",
-      "imageUrl": "https://example.com/ronaldo-league.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+      "imageCredit": "© FIll Photo (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -40,7 +43,8 @@
       "fullDetail": "According to leaked paddock gossip, Max Verstappen reportedly threatened to leave Red Bull Racing due to ongoing internal disagreements over technical decisions and team politics. Red Bull has publicly denied these rumors, but insiders claim tensions have been high behind the scenes, especially after a controversial race strategy call.",
       "reporter": "Emily Carter",
       "dateTime": "2025-08-05 11:20",
-      "imageUrl": "https://example.com/verstappen-dispute.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Max_Verstappen_2022.jpg",
+      "imageCredit": "© XPB Images (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -51,7 +55,8 @@
       "fullDetail": "Entertainment blogs are circulating a story that Lionel Messi has been offered a cameo role in an upcoming Hollywood action film starring Tom Cruise. Filming is allegedly set for early 2026 in Miami, where Messi currently plays. No official confirmation has been made by Messi’s representatives or the film studio.",
       "reporter": "Anna Roberts",
       "dateTime": "2025-08-04 09:15",
-      "imageUrl": "https://example.com/messi-movie.jpg",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Messi_in_2018.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -62,7 +67,8 @@
       "fullDetail": "Rumors suggest that Charles Leclerc was seen entering McLaren’s private hospitality suite during the Silverstone GP weekend. Fans claim this could indicate early talks about a future contract switch. McLaren has refused to comment, and Ferrari maintains Leclerc is committed to his contract until 2027.",
       "reporter": "James Holloway",
       "dateTime": "2025-08-03 16:40",
-      "imageUrl": "https://example.com/leclerc-mclaren.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/FIA_F1_Austria_2023_Charles_Leclerc.jpg",
+      "imageCredit": "© FIA (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -73,7 +79,8 @@
       "fullDetail": "A Spanish gossip magazine claims that Erling Haaland’s personal chef leaked information about the striker’s potential move to Barcelona during a private dinner. Manchester City has denied all transfer speculation, calling the story 'complete nonsense.'",
       "reporter": "Tom Sanders",
       "dateTime": "2025-08-02 13:55",
-      "imageUrl": "https://example.com/haaland-chef.jpg",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Erling_Haaland_2023_%28cropped%29.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -84,7 +91,8 @@
       "fullDetail": "Paddock insiders believe Fernando Alonso has expressed interest in becoming a team principal at Aston Martin once he retires from racing. Team representatives say they value Alonso’s leadership, but no formal discussions have been confirmed.",
       "reporter": "Lucas Bennett",
       "dateTime": "2025-08-01 17:25",
-      "imageUrl": "https://example.com/alonso-teamprincipal.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/FIA_F1_Austria_2023_Fernando_Alonso.jpg",
+      "imageCredit": "© FIA (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -95,7 +103,8 @@
       "fullDetail": "Several Brazilian news outlets report that Neymar has bought a majority stake in a second-division Brazilian club as part of his plan to develop young talent. While Neymar’s PR team has not officially confirmed the acquisition, multiple sources close to the player say the deal is real.",
       "reporter": "Carlos Mendes",
       "dateTime": "2025-07-31 10:50",
-      "imageUrl": "https://example.com/neymar-club.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Neymar_2018_%28cropped%29.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -106,7 +115,8 @@
       "fullDetail": "A viral tweet claims Mohamed Salah has signed a 'lifetime' contract with Liverpool, ensuring he will never transfer to another club. Liverpool has dismissed the claim, stating there is no such contractual term in football.",
       "reporter": "Rachel Moore",
       "dateTime": "2025-07-30 15:05",
-      "imageUrl": "https://example.com/salah-lifetime.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -117,7 +127,8 @@
       "fullDetail": "Insiders say LeBron James is weighing retirement after his 22nd NBA season to focus on ownership ventures.",
       "reporter": "UserB",
       "dateTime": "2025-06-15 00:00",
-      "imageUrl": "https://example.com/11.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/LeBron_James_Cavaliers_at_Wizards_11-21-2014.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -128,7 +139,8 @@
       "fullDetail": "Speculation suggests Steph Curry is interested in a one-year EuroLeague stint before retiring.",
       "reporter": "UserC",
       "dateTime": "2025-07-02 00:00",
-      "imageUrl": "https://example.com/12.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Stephen_Curry_2016.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -139,7 +151,8 @@
       "fullDetail": "Greek media report Giannis is building a basketball academy to nurture local talent.",
       "reporter": "UserC",
       "dateTime": "2025-06-30 00:00",
-      "imageUrl": "https://example.com/13.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Giannis_Antetokounmpo_%2824845003687%29.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -150,7 +163,8 @@
       "fullDetail": "Some sources claim Verstappen might take a sabbatical to focus on personal projects.",
       "reporter": "UserI",
       "dateTime": "2025-08-05 00:00",
-      "imageUrl": "https://example.com/14.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Max_Verstappen_2022.jpg",
+      "imageCredit": "© XPB Images (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -161,7 +175,8 @@
       "fullDetail": "Reports suggest Hamilton will test with a Le Mans team next year.",
       "reporter": "UserG",
       "dateTime": "2025-07-04 00:00",
-      "imageUrl": "https://example.com/15.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/DSC03817-Le_Mans_Classic_2018.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -172,7 +187,8 @@
       "fullDetail": "Leclerc is rumored to be opening a luxury restaurant in Monaco.",
       "reporter": "UserC",
       "dateTime": "2025-07-03 00:00",
-      "imageUrl": "https://example.com/16.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/FIA_F1_Austria_2023_Charles_Leclerc.jpg",
+      "imageCredit": "© FIA (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -183,7 +199,8 @@
       "fullDetail": "A sports network is producing a documentary on Luka Dončić’s career.",
       "reporter": "UserG",
       "dateTime": "2025-06-19 00:00",
-      "imageUrl": "https://example.com/17.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Luka_Don%C4%8Di%C4%87_7_Real_Madrid_Baloncesto_Euroleague_20171012.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -194,7 +211,8 @@
       "fullDetail": "KD reportedly bought a stake in a major e-sports organization.",
       "reporter": "UserE",
       "dateTime": "2025-06-29 00:00",
-      "imageUrl": "https://example.com/18.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Kevin_Durant_Warriors_2019.jpg",
+      "imageCredit": "© Wikimedia user (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     },
@@ -205,7 +223,8 @@
       "fullDetail": "Alonso is said to be preparing for an entry in the Dakar Rally.",
       "reporter": "UserC",
       "dateTime": "2025-07-01 00:00",
-      "imageUrl": "https://example.com/19.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/FIA_F1_Austria_2023_Fernando_Alonso.jpg",
+      "imageCredit": "© FIA (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 10,
       "realVotes": 5
     },
@@ -216,7 +235,8 @@
       "fullDetail": "Reports from Portugal say Ronaldo will acquire shares in Sporting CP.",
       "reporter": "UserD",
       "dateTime": "2025-07-01 00:00",
-      "imageUrl": "https://example.com/20.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+      "imageCredit": "© FIll Photo (Wikipedia, CC BY-SA 4.0)",
       "fakeVotes": 5,
       "realVotes": 10
     }
