@@ -5,162 +5,2322 @@
       "topic": "Kylian Mbappé's Secret Meeting with Real Madrid Officials",
       "shortDetail": "Rumors claim Mbappé had a private dinner with Madrid's president in Paris.",
       "fullDetail": "Multiple unverified sources allege that Kylian Mbappé recently had a discreet dinner meeting with Florentino Pérez, the president of Real Madrid, at a luxury restaurant in Paris. The supposed meeting took place without PSG's knowledge, sparking speculation about an early transfer. No official statements have been made by either club.",
-      "status": "Fake",
       "reporter": "John Doe",
       "dateTime": "2025-08-08 18:30",
       "imageUrl": "https://example.com/mbappe-dinner.jpg",
-      "fakeVotes": 45,
-      "realVotes": 12,
-      "comments": [
-        { "user": "SportsGuru21", "vote": "fake", "comment": "Perez was in Madrid on that date; photos prove it." },
-        { "user": "TransferWatcher", "vote": "fake", "comment": "No credible journalist reported this meeting." },
-        { "user": "RMfan99", "vote": "real", "comment": "Possible — Mbappé’s transfer saga has always been full of surprises." }
-      ]
+      "fakeVotes": 10,
+      "realVotes": 5
     },
     {
       "id": 2,
       "topic": "Lewis Hamilton Considering Retirement Before 2026 Season",
       "shortDetail": "Insider claims Hamilton might quit before the next big regulation changes.",
       "fullDetail": "An anonymous paddock source suggests that Lewis Hamilton is seriously considering retiring before the 2026 Formula 1 season, citing a desire to focus on his fashion and music ventures. Mercedes has neither confirmed nor denied the rumor, while Hamilton himself has posted cryptic messages on social media about 'new beginnings.'",
-      "status": "Real",
       "reporter": "Sarah Johnson",
       "dateTime": "2025-08-07 14:10",
       "imageUrl": "https://example.com/hamilton-retirement.jpg",
-      "fakeVotes": 18,
-      "realVotes": 39,
-      "comments": [
-        { "user": "F1Insider", "vote": "real", "comment": "He's hinted about retirement multiple times this season." },
-        { "user": "TracksideFan", "vote": "fake", "comment": "He just renewed his contract until 2026." },
-        { "user": "PitStopPro", "vote": "real", "comment": "His focus seems to be shifting away from racing." }
-      ]
+      "fakeVotes": 5,
+      "realVotes": 10
     },
     {
       "id": 3,
       "topic": "Cristiano Ronaldo to Launch His Own Football League",
       "shortDetail": "Ronaldo reportedly wants to start a rival league in the Middle East.",
       "fullDetail": "Social media reports claim that Cristiano Ronaldo is working with Middle Eastern investors to launch a brand-new football league that would rival UEFA competitions. The alleged league would include star players in the later stages of their careers, offering massive salaries and global streaming rights. Ronaldo’s representatives have not commented.",
-      "status": "Fake",
       "reporter": "Mike Alvarez",
       "dateTime": "2025-08-06 20:45",
       "imageUrl": "https://example.com/ronaldo-league.jpg",
-      "fakeVotes": 50,
-      "realVotes": 7,
-      "comments": [
-        { "user": "GoalMachine", "vote": "fake", "comment": "Sounds too unrealistic and no official news." },
-        { "user": "DesertBall", "vote": "real", "comment": "With Saudi backing, this could happen." }
-      ]
+      "fakeVotes": 10,
+      "realVotes": 5
     },
     {
       "id": 4,
       "topic": "Max Verstappen Allegedly Threatens to Leave Red Bull Over Internal Disputes",
       "shortDetail": "Reports suggest Verstappen had a heated argument with team management.",
       "fullDetail": "According to leaked paddock gossip, Max Verstappen reportedly threatened to leave Red Bull Racing due to ongoing internal disagreements over technical decisions and team politics. Red Bull has publicly denied these rumors, but insiders claim tensions have been high behind the scenes, especially after a controversial race strategy call.",
-      "status": "Real",
       "reporter": "Emily Carter",
       "dateTime": "2025-08-05 11:20",
       "imageUrl": "https://example.com/verstappen-dispute.jpg",
-      "fakeVotes": 21,
-      "realVotes": 33,
-      "comments": [
-        { "user": "RBfan88", "vote": "real", "comment": "He’s known to be outspoken when unhappy with the team." },
-        { "user": "F1Loyalist", "vote": "fake", "comment": "PR stunt to pressure the team." }
-      ]
+      "fakeVotes": 5,
+      "realVotes": 10
     },
     {
       "id": 5,
       "topic": "Lionel Messi to Co-Star in Hollywood Action Film",
       "shortDetail": "Rumors say Messi is set to appear alongside Tom Cruise in a new blockbuster.",
       "fullDetail": "Entertainment blogs are circulating a story that Lionel Messi has been offered a cameo role in an upcoming Hollywood action film starring Tom Cruise. Filming is allegedly set for early 2026 in Miami, where Messi currently plays. No official confirmation has been made by Messi’s representatives or the film studio.",
-      "status": "Fake",
       "reporter": "Anna Roberts",
       "dateTime": "2025-08-04 09:15",
       "imageUrl": "https://example.com/messi-movie.jpg",
-      "fakeVotes": 42,
-      "realVotes": 10,
-      "comments": [
-        { "user": "CineSports", "vote": "fake", "comment": "Clickbait — no credible source." },
-        { "user": "MiamiInsider", "vote": "real", "comment": "Possible, since he’s in Miami and has global appeal." }
-      ]
+      "fakeVotes": 10,
+      "realVotes": 5
     },
     {
       "id": 6,
       "topic": "Charles Leclerc Secretly Meets Ferrari Rivals for Contract Talks",
       "shortDetail": "Leclerc allegedly spotted in McLaren’s hospitality suite.",
       "fullDetail": "Rumors suggest that Charles Leclerc was seen entering McLaren’s private hospitality suite during the Silverstone GP weekend. Fans claim this could indicate early talks about a future contract switch. McLaren has refused to comment, and Ferrari maintains Leclerc is committed to his contract until 2027.",
-      "status": "Fake",
       "reporter": "James Holloway",
       "dateTime": "2025-08-03 16:40",
       "imageUrl": "https://example.com/leclerc-mclaren.jpg",
-      "fakeVotes": 38,
-      "realVotes": 15,
-      "comments": [
-        { "user": "TifosiKing", "vote": "fake", "comment": "It was probably just a friendly visit." },
-        { "user": "OrangeArmy", "vote": "real", "comment": "Drivers talk to other teams all the time." }
-      ]
+      "fakeVotes": 10,
+      "realVotes": 5
     },
     {
       "id": 7,
       "topic": "Erling Haaland's Personal Chef Reveals Move to Barcelona",
       "shortDetail": "Chef allegedly told friends that Haaland is relocating to Spain.",
       "fullDetail": "A Spanish gossip magazine claims that Erling Haaland’s personal chef leaked information about the striker’s potential move to Barcelona during a private dinner. Manchester City has denied all transfer speculation, calling the story 'complete nonsense.'",
-      "status": "Fake",
       "reporter": "Tom Sanders",
       "dateTime": "2025-08-02 13:55",
       "imageUrl": "https://example.com/haaland-chef.jpg",
-      "fakeVotes": 41,
-      "realVotes": 9,
-      "comments": [
-        { "user": "BarcaRumors", "vote": "real", "comment": "Wouldn’t be the first time chefs leaked player info." },
-        { "user": "CityTillIDie", "vote": "fake", "comment": "Pure gossip with no evidence." }
-      ]
+      "fakeVotes": 10,
+      "realVotes": 5
     },
     {
       "id": 8,
       "topic": "Fernando Alonso to Become Team Principal After Retirement",
       "shortDetail": "Alonso rumored to lead Aston Martin F1 team post-retirement.",
       "fullDetail": "Paddock insiders believe Fernando Alonso has expressed interest in becoming a team principal at Aston Martin once he retires from racing. Team representatives say they value Alonso’s leadership, but no formal discussions have been confirmed.",
-      "status": "Real",
       "reporter": "Lucas Bennett",
       "dateTime": "2025-08-01 17:25",
       "imageUrl": "https://example.com/alonso-teamprincipal.jpg",
-      "fakeVotes": 14,
-      "realVotes": 37,
-      "comments": [
-        { "user": "GreenMachine", "vote": "real", "comment": "Makes perfect sense given his experience." },
-        { "user": "TrackTalker", "vote": "fake", "comment": "He might want to step away from F1 entirely." }
-      ]
+      "fakeVotes": 5,
+      "realVotes": 10
     },
     {
       "id": 9,
       "topic": "Neymar Buys a Football Club in Brazil",
       "shortDetail": "Reports suggest Neymar purchased majority shares of a lower-division club.",
       "fullDetail": "Several Brazilian news outlets report that Neymar has bought a majority stake in a second-division Brazilian club as part of his plan to develop young talent. While Neymar’s PR team has not officially confirmed the acquisition, multiple sources close to the player say the deal is real.",
-      "status": "Real",
       "reporter": "Carlos Mendes",
       "dateTime": "2025-07-31 10:50",
       "imageUrl": "https://example.com/neymar-club.jpg",
-      "fakeVotes": 12,
-      "realVotes": 44,
-      "comments": [
-        { "user": "SelecaoSupporter", "vote": "real", "comment": "He has always talked about investing in Brazilian football." },
-        { "user": "DoubtfulDave", "vote": "fake", "comment": "Could be a publicity stunt." }
-      ]
+      "fakeVotes": 5,
+      "realVotes": 10
     },
     {
       "id": 10,
       "topic": "Mohamed Salah Signs Lifetime Contract with Liverpool",
       "shortDetail": "Rumors say Salah agreed to stay at Liverpool for his entire career.",
       "fullDetail": "A viral tweet claims Mohamed Salah has signed a 'lifetime' contract with Liverpool, ensuring he will never transfer to another club. Liverpool has dismissed the claim, stating there is no such contractual term in football.",
-      "status": "Fake",
       "reporter": "Rachel Moore",
       "dateTime": "2025-07-30 15:05",
       "imageUrl": "https://example.com/salah-lifetime.jpg",
-      "fakeVotes": 46,
-      "realVotes": 8,
-      "comments": [
-        { "user": "KopiteForever", "vote": "real", "comment": "I wish this were true." },
-        { "user": "TransferTruth", "vote": "fake", "comment": "No such thing as a lifetime contract in football." }
-      ]
+      "fakeVotes": 10,
+      "realVotes": 5
+    },
+    {
+      "id": 11,
+      "topic": "LeBron James Considering Retirement After Next Season",
+      "shortDetail": "LeBron rumored to step away after year 22.",
+      "fullDetail": "Insiders say LeBron James is weighing retirement after his 22nd NBA season to focus on ownership ventures.",
+      "reporter": "UserB",
+      "dateTime": "2025-06-15 00:00",
+      "imageUrl": "https://example.com/11.jpg",
+      "fakeVotes": 5,
+      "realVotes": 10
+    },
+    {
+      "id": 12,
+      "topic": "Steph Curry to Join EuroLeague Team",
+      "shortDetail": "Rumors say Curry may play in Europe for a season.",
+      "fullDetail": "Speculation suggests Steph Curry is interested in a one-year EuroLeague stint before retiring.",
+      "reporter": "UserC",
+      "dateTime": "2025-07-02 00:00",
+      "imageUrl": "https://example.com/12.jpg",
+      "fakeVotes": 10,
+      "realVotes": 5
+    },
+    {
+      "id": 13,
+      "topic": "Giannis Antetokounmpo Launching Basketball Academy in Greece",
+      "shortDetail": "Plans for youth training center unveiled.",
+      "fullDetail": "Greek media report Giannis is building a basketball academy to nurture local talent.",
+      "reporter": "UserC",
+      "dateTime": "2025-06-30 00:00",
+      "imageUrl": "https://example.com/13.jpg",
+      "fakeVotes": 5,
+      "realVotes": 10
+    },
+    {
+      "id": 14,
+      "topic": "Max Verstappen to Take a Year Off",
+      "shortDetail": "F1 champion rumored to skip a season.",
+      "fullDetail": "Some sources claim Verstappen might take a sabbatical to focus on personal projects.",
+      "reporter": "UserI",
+      "dateTime": "2025-08-05 00:00",
+      "imageUrl": "https://example.com/14.jpg",
+      "fakeVotes": 10,
+      "realVotes": 5
+    },
+    {
+      "id": 15,
+      "topic": "Lewis Hamilton to Race in Le Mans",
+      "shortDetail": "Hamilton considering endurance racing.",
+      "fullDetail": "Reports suggest Hamilton will test with a Le Mans team next year.",
+      "reporter": "UserG",
+      "dateTime": "2025-07-04 00:00",
+      "imageUrl": "https://example.com/15.jpg",
+      "fakeVotes": 5,
+      "realVotes": 10
+    },
+    {
+      "id": 16,
+      "topic": "Charles Leclerc to Open Restaurant",
+      "shortDetail": "F1 star branching into hospitality.",
+      "fullDetail": "Leclerc is rumored to be opening a luxury restaurant in Monaco.",
+      "reporter": "UserC",
+      "dateTime": "2025-07-03 00:00",
+      "imageUrl": "https://example.com/16.jpg",
+      "fakeVotes": 10,
+      "realVotes": 5
+    },
+    {
+      "id": 17,
+      "topic": "Luka Dončić to Star in Basketball Documentary",
+      "shortDetail": "NBA star's journey to be featured.",
+      "fullDetail": "A sports network is producing a documentary on Luka Dončić’s career.",
+      "reporter": "UserG",
+      "dateTime": "2025-06-19 00:00",
+      "imageUrl": "https://example.com/17.jpg",
+      "fakeVotes": 10,
+      "realVotes": 5
+    },
+    {
+      "id": 18,
+      "topic": "Kevin Durant Invests in E-Sports Team",
+      "shortDetail": "Durant expands business portfolio.",
+      "fullDetail": "KD reportedly bought a stake in a major e-sports organization.",
+      "reporter": "UserE",
+      "dateTime": "2025-06-29 00:00",
+      "imageUrl": "https://example.com/18.jpg",
+      "fakeVotes": 5,
+      "realVotes": 10
+    },
+    {
+      "id": 19,
+      "topic": "Fernando Alonso to Race in Dakar Rally",
+      "shortDetail": "Post-F1 challenge for Alonso.",
+      "fullDetail": "Alonso is said to be preparing for an entry in the Dakar Rally.",
+      "reporter": "UserC",
+      "dateTime": "2025-07-01 00:00",
+      "imageUrl": "https://example.com/19.jpg",
+      "fakeVotes": 10,
+      "realVotes": 5
+    },
+    {
+      "id": 20,
+      "topic": "Cristiano Ronaldo to Buy Stake in Sporting CP",
+      "shortDetail": "Ronaldo investing in boyhood club.",
+      "fullDetail": "Reports from Portugal say Ronaldo will acquire shares in Sporting CP.",
+      "reporter": "UserD",
+      "dateTime": "2025-07-01 00:00",
+      "imageUrl": "https://example.com/20.jpg",
+      "fakeVotes": 5,
+      "realVotes": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "newsId": 1,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 2,
+      "newsId": 1,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 3,
+      "newsId": 1,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 4,
+      "newsId": 1,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 5,
+      "newsId": 1,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 6,
+      "newsId": 1,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 7,
+      "newsId": 1,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 8,
+      "newsId": 1,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 9,
+      "newsId": 1,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 10,
+      "newsId": 1,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 11,
+      "newsId": 1,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 12,
+      "newsId": 1,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 13,
+      "newsId": 1,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 14,
+      "newsId": 1,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 15,
+      "newsId": 1,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 16,
+      "newsId": 2,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 17,
+      "newsId": 2,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 18,
+      "newsId": 2,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 19,
+      "newsId": 2,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 20,
+      "newsId": 2,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 21,
+      "newsId": 2,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 22,
+      "newsId": 2,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 23,
+      "newsId": 2,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 24,
+      "newsId": 2,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 25,
+      "newsId": 2,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 26,
+      "newsId": 2,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 27,
+      "newsId": 2,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 28,
+      "newsId": 2,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 29,
+      "newsId": 2,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 30,
+      "newsId": 2,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 31,
+      "newsId": 3,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 32,
+      "newsId": 3,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 33,
+      "newsId": 3,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 34,
+      "newsId": 3,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 35,
+      "newsId": 3,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 36,
+      "newsId": 3,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 37,
+      "newsId": 3,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 38,
+      "newsId": 3,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 39,
+      "newsId": 3,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 40,
+      "newsId": 3,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 41,
+      "newsId": 3,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 42,
+      "newsId": 3,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 43,
+      "newsId": 3,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 44,
+      "newsId": 3,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 45,
+      "newsId": 3,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 46,
+      "newsId": 4,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 47,
+      "newsId": 4,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 48,
+      "newsId": 4,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 49,
+      "newsId": 4,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 50,
+      "newsId": 4,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 51,
+      "newsId": 4,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 52,
+      "newsId": 4,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 53,
+      "newsId": 4,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 54,
+      "newsId": 4,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 55,
+      "newsId": 4,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 56,
+      "newsId": 4,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 57,
+      "newsId": 4,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 58,
+      "newsId": 4,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 59,
+      "newsId": 4,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 60,
+      "newsId": 4,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 61,
+      "newsId": 5,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 62,
+      "newsId": 5,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 63,
+      "newsId": 5,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 64,
+      "newsId": 5,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 65,
+      "newsId": 5,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 66,
+      "newsId": 5,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 67,
+      "newsId": 5,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 68,
+      "newsId": 5,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 69,
+      "newsId": 5,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 70,
+      "newsId": 5,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 71,
+      "newsId": 5,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 72,
+      "newsId": 5,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 73,
+      "newsId": 5,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 74,
+      "newsId": 5,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 75,
+      "newsId": 5,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 76,
+      "newsId": 6,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 77,
+      "newsId": 6,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 78,
+      "newsId": 6,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 79,
+      "newsId": 6,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 80,
+      "newsId": 6,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 81,
+      "newsId": 6,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 82,
+      "newsId": 6,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 83,
+      "newsId": 6,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 84,
+      "newsId": 6,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 85,
+      "newsId": 6,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 86,
+      "newsId": 6,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 87,
+      "newsId": 6,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 88,
+      "newsId": 6,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 89,
+      "newsId": 6,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 90,
+      "newsId": 6,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 91,
+      "newsId": 7,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 92,
+      "newsId": 7,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 93,
+      "newsId": 7,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 94,
+      "newsId": 7,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 95,
+      "newsId": 7,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 96,
+      "newsId": 7,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 97,
+      "newsId": 7,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 98,
+      "newsId": 7,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 99,
+      "newsId": 7,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 100,
+      "newsId": 7,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 101,
+      "newsId": 7,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 102,
+      "newsId": 7,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 103,
+      "newsId": 7,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 104,
+      "newsId": 7,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 105,
+      "newsId": 7,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 106,
+      "newsId": 8,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 107,
+      "newsId": 8,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 108,
+      "newsId": 8,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 109,
+      "newsId": 8,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 110,
+      "newsId": 8,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 111,
+      "newsId": 8,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 112,
+      "newsId": 8,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 113,
+      "newsId": 8,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 114,
+      "newsId": 8,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 115,
+      "newsId": 8,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 116,
+      "newsId": 8,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 117,
+      "newsId": 8,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 118,
+      "newsId": 8,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 119,
+      "newsId": 8,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 120,
+      "newsId": 8,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 121,
+      "newsId": 9,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 122,
+      "newsId": 9,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 123,
+      "newsId": 9,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 124,
+      "newsId": 9,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 125,
+      "newsId": 9,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 126,
+      "newsId": 9,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 127,
+      "newsId": 9,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 128,
+      "newsId": 9,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 129,
+      "newsId": 9,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 130,
+      "newsId": 9,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 131,
+      "newsId": 9,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 132,
+      "newsId": 9,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 133,
+      "newsId": 9,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 134,
+      "newsId": 9,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 135,
+      "newsId": 9,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 136,
+      "newsId": 10,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 137,
+      "newsId": 10,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 138,
+      "newsId": 10,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 139,
+      "newsId": 10,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 140,
+      "newsId": 10,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 141,
+      "newsId": 10,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 142,
+      "newsId": 10,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 143,
+      "newsId": 10,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 144,
+      "newsId": 10,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 145,
+      "newsId": 10,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 146,
+      "newsId": 10,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 147,
+      "newsId": 10,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 148,
+      "newsId": 10,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 149,
+      "newsId": 10,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 150,
+      "newsId": 10,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 151,
+      "newsId": 11,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 152,
+      "newsId": 11,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 153,
+      "newsId": 11,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 154,
+      "newsId": 11,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 155,
+      "newsId": 11,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 156,
+      "newsId": 11,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 157,
+      "newsId": 11,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 158,
+      "newsId": 11,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 159,
+      "newsId": 11,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 160,
+      "newsId": 11,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 161,
+      "newsId": 11,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 162,
+      "newsId": 11,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 163,
+      "newsId": 11,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 164,
+      "newsId": 11,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 165,
+      "newsId": 11,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 166,
+      "newsId": 12,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 167,
+      "newsId": 12,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 168,
+      "newsId": 12,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 169,
+      "newsId": 12,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 170,
+      "newsId": 12,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 171,
+      "newsId": 12,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 172,
+      "newsId": 12,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 173,
+      "newsId": 12,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 174,
+      "newsId": 12,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 175,
+      "newsId": 12,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 176,
+      "newsId": 12,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 177,
+      "newsId": 12,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 178,
+      "newsId": 12,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 179,
+      "newsId": 12,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 180,
+      "newsId": 12,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 181,
+      "newsId": 13,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 182,
+      "newsId": 13,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 183,
+      "newsId": 13,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 184,
+      "newsId": 13,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 185,
+      "newsId": 13,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 186,
+      "newsId": 13,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 187,
+      "newsId": 13,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 188,
+      "newsId": 13,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 189,
+      "newsId": 13,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 190,
+      "newsId": 13,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 191,
+      "newsId": 13,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 192,
+      "newsId": 13,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 193,
+      "newsId": 13,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 194,
+      "newsId": 13,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 195,
+      "newsId": 13,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 196,
+      "newsId": 14,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 197,
+      "newsId": 14,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 198,
+      "newsId": 14,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 199,
+      "newsId": 14,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 200,
+      "newsId": 14,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 201,
+      "newsId": 14,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 202,
+      "newsId": 14,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 203,
+      "newsId": 14,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 204,
+      "newsId": 14,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 205,
+      "newsId": 14,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 206,
+      "newsId": 14,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 207,
+      "newsId": 14,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 208,
+      "newsId": 14,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 209,
+      "newsId": 14,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 210,
+      "newsId": 14,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 211,
+      "newsId": 15,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 212,
+      "newsId": 15,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 213,
+      "newsId": 15,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 214,
+      "newsId": 15,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 215,
+      "newsId": 15,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 216,
+      "newsId": 15,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 217,
+      "newsId": 15,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 218,
+      "newsId": 15,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 219,
+      "newsId": 15,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 220,
+      "newsId": 15,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 221,
+      "newsId": 15,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 222,
+      "newsId": 15,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 223,
+      "newsId": 15,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 224,
+      "newsId": 15,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 225,
+      "newsId": 15,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 226,
+      "newsId": 16,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 227,
+      "newsId": 16,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 228,
+      "newsId": 16,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 229,
+      "newsId": 16,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 230,
+      "newsId": 16,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 231,
+      "newsId": 16,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 232,
+      "newsId": 16,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 233,
+      "newsId": 16,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 234,
+      "newsId": 16,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 235,
+      "newsId": 16,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 236,
+      "newsId": 16,
+      "user": "UserG",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 237,
+      "newsId": 16,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 238,
+      "newsId": 16,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 239,
+      "newsId": 16,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 240,
+      "newsId": 16,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 241,
+      "newsId": 17,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 242,
+      "newsId": 17,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 243,
+      "newsId": 17,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 244,
+      "newsId": 17,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 245,
+      "newsId": 17,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 246,
+      "newsId": 17,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 247,
+      "newsId": 17,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 248,
+      "newsId": 17,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 249,
+      "newsId": 17,
+      "user": "UserA",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 250,
+      "newsId": 17,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 251,
+      "newsId": 17,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 252,
+      "newsId": 17,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 253,
+      "newsId": 17,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 254,
+      "newsId": 17,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 255,
+      "newsId": 17,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 256,
+      "newsId": 18,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 257,
+      "newsId": 18,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 258,
+      "newsId": 18,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 259,
+      "newsId": 18,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 260,
+      "newsId": 18,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 261,
+      "newsId": 18,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 262,
+      "newsId": 18,
+      "user": "UserC",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 263,
+      "newsId": 18,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 264,
+      "newsId": 18,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 265,
+      "newsId": 18,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 266,
+      "newsId": 18,
+      "user": "UserH",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 267,
+      "newsId": 18,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 268,
+      "newsId": 18,
+      "user": "UserF",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 269,
+      "newsId": 18,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 270,
+      "newsId": 18,
+      "user": "UserI",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 271,
+      "newsId": 19,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 272,
+      "newsId": 19,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 273,
+      "newsId": 19,
+      "user": "UserA",
+      "vote": "fake",
+      "comment": "Timeline doesn't add up if you check fixtures and travel."
+    },
+    {
+      "id": 274,
+      "newsId": 19,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 275,
+      "newsId": 19,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 276,
+      "newsId": 19,
+      "user": "UserF",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 277,
+      "newsId": 19,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 278,
+      "newsId": 19,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 279,
+      "newsId": 19,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 280,
+      "newsId": 19,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 281,
+      "newsId": 19,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 282,
+      "newsId": 19,
+      "user": "UserH",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 283,
+      "newsId": 19,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Multiple outlets reported compatible details."
+    },
+    {
+      "id": 284,
+      "newsId": 19,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 285,
+      "newsId": 19,
+      "user": "UserJ",
+      "vote": "fake",
+      "comment": "No official source backs this claim."
+    },
+    {
+      "id": 286,
+      "newsId": 20,
+      "user": "UserG",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 287,
+      "newsId": 20,
+      "user": "UserE",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 288,
+      "newsId": 20,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 289,
+      "newsId": 20,
+      "user": "UserE",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 290,
+      "newsId": 20,
+      "user": "UserJ",
+      "vote": "real",
+      "comment": "Players close to him liked similar posts."
+    },
+    {
+      "id": 291,
+      "newsId": 20,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
+    },
+    {
+      "id": 292,
+      "newsId": 20,
+      "user": "UserI",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 293,
+      "newsId": 20,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 294,
+      "newsId": 20,
+      "user": "UserB",
+      "vote": "fake",
+      "comment": "Reverse image search shows the photo is old."
+    },
+    {
+      "id": 295,
+      "newsId": 20,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Media outlets have denied it outright."
+    },
+    {
+      "id": 296,
+      "newsId": 20,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Club statements indirectly support the possibility."
+    },
+    {
+      "id": 297,
+      "newsId": 20,
+      "user": "UserB",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 298,
+      "newsId": 20,
+      "user": "UserD",
+      "vote": "real",
+      "comment": "Several journalists hinted at this move."
+    },
+    {
+      "id": 299,
+      "newsId": 20,
+      "user": "UserC",
+      "vote": "real",
+      "comment": "Fits the pattern we've seen all season."
+    },
+    {
+      "id": 300,
+      "newsId": 20,
+      "user": "UserD",
+      "vote": "fake",
+      "comment": "Sounds like pure speculation without evidence."
     }
   ]
 }
