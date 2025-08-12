@@ -246,21 +246,32 @@
       "newsId": 1,
       "user": "UserG",
       "vote": "real",
-      "comment": "Several journalists hinted at this move."
+      "comment": "Several journalists hinted at this move.",
+      "attachments":[
+       "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/6/18/e930f23cf37a45ca88b2ec11010d7d58",
+       "https://cdns.klimg.com/bola.net/resized/810x540/library/upload/21/2025/02/996x664/kylian-mbappe-real-m_5d284ba.jpg"
+      ]
     },
     {
       "id": 2,
       "newsId": 1,
       "user": "UserI",
       "vote": "fake",
-      "comment": "Reverse image search shows the photo is old."
+      "comment": "Reverse image search shows the photo is old.",
+      "attachments":[
+       "https://e0.365dm.com/20/07/768x432/skysports-kylian-mbappe-psg_5048945.jpg?20200724223212",
+       "https://media.cnn.com/api/v1/images/stellar/prod/200727111209-mbappe-injury.jpg?q=w_3400,h_2004,x_0,y_0,c_fill"
+      ]
     },
     {
       "id": 3,
       "newsId": 1,
       "user": "UserD",
       "vote": "fake",
-      "comment": "Sounds like pure speculation without evidence."
+      "comment": "Sounds like pure speculation without evidence.",
+      "attachments":[
+       "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/be8ijbdu1sophlgiriip"
+      ]
     },
     {
       "id": 4,
